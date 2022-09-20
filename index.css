@@ -1,0 +1,224 @@
+
+
+* {
+
+
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+ul {
+
+  list-style: none;
+}
+
+
+
+body {
+
+  font-family: 'Merriweather Sans', sans-serif;
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-color: #22212C;
+}
+
+
+main {
+    
+    color: #837E9F;
+    position: absolute;
+    width: 348px;
+    height: 292px;
+    left: 40px;
+    top: 40px;
+
+}
+
+
+
+div section {
+  position: absolute;
+  color: #837E9F;
+  width: 952px;
+  height: 86px;
+  left: 448px;
+  top: 40px;
+  margin: 4px;
+
+  display: grid;
+  gap: 2px;
+
+}
+
+
+
+
+header {
+
+  padding: 30px;
+  height: calc(120px + 32px);
+  
+  
+}
+ 
+  
+  
+header div {
+
+
+
+    width: 120px;
+    margin: auto;
+    border: 1px solid #ff830f;
+    border-radius: 100%;
+
+    display: flex;
+    padding: 4px;
+}
+
+
+
+
+
+header img {
+
+  width: 100%;
+  border-radius: 100%;
+  
+  
+}
+
+
+
+
+section {
+
+  
+  background-color: #302F3D;
+  border-radius: 15px;
+  
+  }
+
+
+
+
+section h2 {
+
+  padding: 6px;
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+
+
+main section div p {
+
+padding: 32px;
+padding-top: 1px;
+padding-left: 80px;
+
+
+
+}
+
+
+main section div h4  {
+  position: absolute;
+  padding-left: 100px;
+  padding-top: 5px;
+  font-weight: 400;
+  font-size: 13px;
+  
+}
+
+
+a {
+
+margin: 60px;
+
+}
+
+.descrição {
+
+  padding: 32px;
+  padding-top: 20px;
+  
+
+}
+
+
+.tecnologias {
+
+  padding: 32px;
+  padding-top: 20px;
+
+  
+}
+
+
+.experiencias {
+
+  padding: 32px;
+  padding-top: 20px;
+
+}
+
+
+
+.Educação {
+  
+  padding: 32px;
+  padding-top: 20px;
+  
+}
+
+
+
+.projetos {
+
+  position: absolute;
+  width: 952px;
+  height: 86px;
+  left: 448px;
+  top: 40px;
+  
+
+}
+
+
+
+.my-projects  {
+
+position: absolute;
+height: 26px;
+left: 47px;
+top: 20px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+color: #837E9F;
+
+
+
+
+}
+
+
+
+.link {
+color: #837E9F ;
+position: absolute;
+width: 100px;
+height: 18px;
+left: 800px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 18px;
+margin: 32px;
+
+}
